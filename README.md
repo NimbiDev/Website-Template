@@ -1,5 +1,5 @@
-# Website-Template
-HTML Website Template
+# Website Template
+HTML website template with side bar navigation
 
 
 
