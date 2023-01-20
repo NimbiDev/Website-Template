@@ -12,7 +12,7 @@ How to use this template in your own project.
 
  - Download or clone this repo into a folder of your choice.
  - Edit the HTML files to reflect your preference(s).
- - Add any extra pages into the pages subfolder and edit the following code to reflect the new pages (Note: Make sure the paths and page.names are correct):
+ - Add any extra pages into the `page` subfolder and edit the following code to reflect the new pages *(Make sure the paths and page names are correct)*:
 
  ```html
  <div id="mySidenav" class="sidenav">
