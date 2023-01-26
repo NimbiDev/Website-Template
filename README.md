@@ -9,9 +9,6 @@ HTML website template with side bar navigation
 
 <h2>Desktop</h2>
 <img src="/.github/assets/screenshots/desktop/001.png?" width="80%" alt="Desktop Screenshot 001"></br />
-<img src="/.github/assets/screenshots/desktop/002.png?" width="80%" alt="Desktop Screenshot 002">
+<img src="/.github/assets/screenshots/desktop/002.png?" width="80%" alt="Desktop Screenshot 002"></br />
+<img src="/.github/assets/screenshots/desktop/003.png?" width="80%" alt="Desktop Screenshot 003">
 </div>
-
-<details>
-This project is built and maintained via Android phone. As such the screenshots represent the mobile layout. However this project should auto adjust to desktop layout as well.
-</details>
