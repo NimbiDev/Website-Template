@@ -60,18 +60,18 @@
      }
 
      #contact tr:nth-child(even) {
-       background-color: #f2f2f2;
+       background-color: slategrey;
      }
 
      #contact tr:hover {
-       background-color: #ddd;
+       background-color: slategray;
      }
 
      #contact th {
        padding-top: 12px;
        padding-bottom: 12px;
        text-align: left;
-       background-color: #04AA6D;
+       background-color: cadetblue;
        color: white;
      }
 
@@ -84,4 +84,10 @@
        color: white;
        font-family: Arial, Helvetica, sans-serif;
        text-align: center;
+     }
+     
+     #page {
+       background-color: darkslategrey;
+       font-family: Arial, Helvetica, sans-serif;
+       color: white;
      }
