@@ -91,3 +91,11 @@
        font-family: Arial, Helvetica, sans-serif;
        color: white;
      }
+     
+     #page h1 {
+       text-align: center;
+     }
+     
+     #page h2 {
+       text-align: center;
+     }
