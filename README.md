@@ -4,7 +4,11 @@ HTML website template with side bar navigation
 ## Screenshots
 
 <div align="center">
-<img src="/.github/assets/Screenshot_1.png?" width="250px" alt="Screenshot_1"> <img src="/.github/assets/Screenshot_2.png?" width="250px" alt="Screenshot_2"> <img src="/.github/assets/Screenshot_3.png?" width="250px" alt="Screenshot_3">
+<h2>Mobile</h2>
+<img src="/.github/assets/screenshots/mobile/001.png?" width="250px" alt="Mobile Screenshot 001"> <img src="/.github/assets/screenshots/mobile/002.png?" width="250px" alt="Mobile Screenshot 002"> <img src="/.github/assets/screenshots/mobile/003.png?" width="250px" alt="Mobile Screenshot 003"> 
+
+<h2>Desktop</h2>
+<img src="/.github/assets/screenshots/desktop/001.png?" width="250px" alt="Desktop Screenshot 001"> <img src="/.github/assets/screenshots/desktop/002.png?" width="250px" alt="Desktop Screenshot 002">
 </div>
 
 <details>
