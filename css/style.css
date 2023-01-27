@@ -47,34 +47,21 @@
        }
      }
 
-     #contact {
-       font-family: Arial, Helvetica, sans-serif;
-       border-collapse: collapse;
-       width: 80%;
-     }
-
-     #contact td,
-     #contact th {
-       border: 1px solid #ddd;
-       padding: 8px;
-     }
-
-     #contact tr:nth-child(even) {
-       background-color: slategrey;
-     }
-
-     #contact tr:hover {
-       background-color: slategray;
-     }
-
-     #contact th {
-       padding-top: 12px;
-       padding-bottom: 12px;
-       text-align: left;
-       background-color: cadetblue;
-       color: white;
-       font-size: 16px;
-     }
+     .grid-container {
+      display: grid;
+      grid-template-columns: auto auto auto;
+      gap: 3px;
+      background-color: cadetblue;
+      border: 1px solid slategrey;
+      padding: 3px;
+    }
+    
+    .grid-container > div {
+      background-color: rgba(255, 255, 255, 0.8);
+      border: 1px solid slategray;
+      text-align: center;
+      font-size: 30px;
+    }
 
      #footer {
        position: fixed;
